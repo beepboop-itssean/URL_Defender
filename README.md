@@ -5,6 +5,16 @@ VirusTotal, blocks malicious URLs, and maintains a local cache of results.
 
 ---
 
+## Screenshots
+
+<p float="left">
+  <img src="screenshots/extension_popup_all.png" width="45%" />
+  <img src="screenshots/extension_popup.png" width="45%" />
+  <img src="screenshots/popup_blocked.png" width="45%" />
+  <img src="screenshots/popup_safe.png" width="45%" />
+  <img src="screenshots/chrom_extension_page.png" width="45%" />
+</p>
+
 ## Setup
 
 ### 1. Get a VirusTotal API Key
